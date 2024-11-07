@@ -19,7 +19,7 @@ Installtion
 </h3>
 
 ```bash
-git clone https://github.com/aymensecurity/pipslant.git
+git clone https://github.com/vulncrax/pipslant.git
 cd pipslant
 bash install.sh
 ```
